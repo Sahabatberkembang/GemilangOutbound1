@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://gemilang-outbound1.vercel.app/sitemap.xml
+
+# Crawl-delay (agar tidak membebani server)
+Crawl-delay: 1
